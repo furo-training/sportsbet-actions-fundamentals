@@ -20,7 +20,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 📆 Agenda
 
-### Day 1: 🚀 Getting started
+### Morning: 🚀 Getting started
 
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
@@ -40,8 +40,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Using the GitHub API and Octokit
 - [ ] Job descriptions
 
-### Day 2
-- [ ] Introduction
+### Afternoon
 - [ ] Actions for CI/CD
 - [ ] Permissions for GitHub Token
 - [ ] Environments and Secrets
