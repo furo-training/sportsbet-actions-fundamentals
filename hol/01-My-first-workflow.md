@@ -9,6 +9,8 @@ This hands on lab consists of the following steps:
 
 ## Creating a repository
 
+Test update
+
 Go to [The ActionsFundamentals repository in the ps-actions-sandbox organization](https://github.com/ps-actions-sandbox/ActionsFundamentals) and click <kbd>Use this template</kbd>:
 
 <img width="400" alt="2022-09-18_11-24-58" src="https://user-images.githubusercontent.com/5276337/190895393-6fa0fad9-e05c-4fea-8126-a291b087d663.png">
